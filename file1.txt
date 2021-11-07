@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-this line from github
-
-this line from local machine
-
-added line
-
-=======
-line from git hub
->>>>>>> a715eb2c3c39fa182b3cf5565bea79bb68df601f
+hello there
