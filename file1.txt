@@ -7,3 +7,4 @@ written after stashing on file 1
 =======
 written before stashing
 >>>>>>> Stashed changes
+from branch list
