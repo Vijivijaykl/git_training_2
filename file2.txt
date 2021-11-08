@@ -3,4 +3,8 @@ line from github
 line from local machine
 commit revert 2
 
+<<<<<<< Updated upstream
 written after stashing on file2
+=======
+written before stashing on file2
+>>>>>>> Stashed changes
