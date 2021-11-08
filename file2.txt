@@ -8,3 +8,4 @@ written after stashing on file2
 =======
 written before stashing on file2
 >>>>>>> Stashed changes
+after stashing
